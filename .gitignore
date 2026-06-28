@@ -1,0 +1,25 @@
+# OS/editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local runtime output
+*.log
+*.tmp
+*.bak
+
+# Do not commit original local software/data dumps
+*.exe
+*.dll
+*.mdb
+*.ldb
+*.mp4
+*.avi
+*.mkv
+*.zip
+*.rar
+*.7z
+
+# Keep generated notes and project skill files tracked
+!.codex/
+!.codex/skills/
