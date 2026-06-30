@@ -13,6 +13,8 @@
 - Visible parts: `01` to `07`
 - Tags observed: `中医`, `读书`, `梁冬`, `医学`, `国学`, `倪海厦`
 - Page date observed: `2026-03-31 14:05:49`
+- Subtitle status observed: player subtitle control exists, but no complete exportable subtitle text has been captured from page state.
+- Related learning leads observed on the Bilibili page are recorded in `D:\codex\chinese-medicien\倪海厦学习资料\00_总览\B站相关学习线索.md`.
 
 ## Local Software Root
 
@@ -77,6 +79,7 @@ Observed:
 - Create separate notes only when there is enough confirmed content.
 - Use `待核对` sections for incomplete extraction.
 - Keep medical safety notes visible in any generated study route.
+- For video summaries, do not infer spoken content from titles. Use subtitles, visible captions, watched segments, or user-provided transcripts.
 
 ## External Skill Candidate
 

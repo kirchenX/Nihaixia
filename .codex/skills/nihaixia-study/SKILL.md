@@ -16,6 +16,7 @@ Use this skill to maintain a long-running learning system for 倪海厦 material
 - Mark source status clearly: confirmed from local files, confirmed from visible UI, confirmed from web/video page, inferred, or pending verification.
 - Preserve original source paths and video links so notes remain traceable.
 - Prefer small Markdown updates over large rewrites.
+- For videos, do not summarize spoken content unless subtitles, visible captions, watched segments, or user-provided transcripts are available.
 
 ## Project Files
 
@@ -36,6 +37,7 @@ Read `references/project-sources.md` before updating the main index or creating 
 
 2. Capture evidence:
    - For browser pages, record title, URL, visible episode names, tags, and dates.
+   - For subtitle/video summaries, record whether transcript extraction succeeded or failed.
    - For Windows software UI, record visible module names and screenshots/text only; do not modify software data.
    - For local files, record exact absolute paths and file types.
 
